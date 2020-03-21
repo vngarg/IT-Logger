@@ -1,18 +1,18 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Network Card Replaced",
-      "attention": false,
-      "tech": "Suraj Sah",
-      "date": "2020-03-21T12:57:57.171Z",
-      "id": 1
+      "attention": true,
+      "tech": "Gaurav Jain",
+      "date": "2020-03-21T16:55:38.366Z"
     },
     {
-      "message": "Needed to fix Hard Drive",
-      "attention": true,
-      "tech": "Shlok Garg",
-      "date": "2020-03-21T12:58:50.400Z",
-      "id": 2
+      "id": 2,
+      "message": "Needed fix in Hard Drive",
+      "attention": false,
+      "tech": "Suraj Sah",
+      "date": "2020-03-21T16:46:12.666Z"
     }
   ],
   "techs": [
@@ -35,6 +35,11 @@
       "FirstName": "Saurav",
       "LastName": "Arya",
       "id": 4
+    },
+    {
+      "FirstName": "Sarthak",
+      "LastName": "Garg",
+      "id": 5
     }
   ]
 }
