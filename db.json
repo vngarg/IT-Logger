@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Network Card Replaced",
-      "attention": true,
-      "tech": "Gaurav Jain",
-      "date": "2020-03-21T16:55:38.366Z"
-    },
-    {
       "id": 2,
       "message": "Needed fix in Hard Drive",
       "attention": false,
