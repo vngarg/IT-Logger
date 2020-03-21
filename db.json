@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Fixed Tap",
+      "message": "Network Card Replaced",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Shlok Garg"
+      "tech": "Suraj Sah",
+      "date": "2020-03-21T12:57:57.171Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Fixed Rooftop",
+      "message": "Needed to fix Hard Drive",
       "attention": true,
-      "date": "05-09-2019",
-      "tech": "Suraj Sah"
-    },
-    {
-      "id": 3,
-      "message": "Problem in Floor",
-      "attention": false,
-      "date": "12-01-2019",
-      "tech": "Gaurav Jain"
+      "tech": "Shlok Garg",
+      "date": "2020-03-21T12:58:50.400Z",
+      "id": 2
     }
   ],
   "techs": [
