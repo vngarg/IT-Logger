@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed Tap",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Shlok Garg"
+    },
+    {
+      "id": 2,
+      "message": "Fixed Rooftop",
+      "attention": true,
+      "date": "05-09-2019",
+      "tech": "Suraj Sah"
+    },
+    {
+      "id": 3,
+      "message": "Problem in Floor",
+      "attention": false,
+      "date": "26-10-2019",
+      "tech": "Gaurav Jain"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Shlok",
+      "lastname": "Garg"
+    },
+    {
+      "id": 2,
+      "firstname": "Suraj",
+      "lastname": "Sah"
+    },
+    {
+      "id": 3,
+      "firstname": "Gaurav",
+      "lastname": "Jain"
+    },
+    {
+      "firstname": "Saurav",
+      "lalstname": "Arya",
+      "id": 4
+    }
+  ]
+}
