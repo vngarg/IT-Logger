@@ -21,7 +21,7 @@ const Logs = () => {
     }
 
     if(loading){
-        return <PreLoader />
+        return <PreLoader />;
     }
 
     return (

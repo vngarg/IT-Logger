@@ -25,22 +25,22 @@
   "techs": [
     {
       "id": 1,
-      "firstname": "Shlok",
-      "lastname": "Garg"
+      "FirstName": "Shlok",
+      "LastName": "Garg"
     },
     {
       "id": 2,
-      "firstname": "Suraj",
-      "lastname": "Sah"
+      "FirstName": "Suraj",
+      "LastName": "Sah"
     },
     {
       "id": 3,
-      "firstname": "Gaurav",
-      "lastname": "Jain"
+      "FirstName": "Gaurav",
+      "LastName": "Jain"
     },
     {
-      "firstname": "Saurav",
-      "lalstname": "Arya",
+      "FirstName": "Saurav",
+      "LastName": "Arya",
       "id": 4
     }
   ]

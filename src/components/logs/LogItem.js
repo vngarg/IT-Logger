@@ -6,7 +6,7 @@ const LogItem = ({ log }) => {
     return (
         <li className="collection-item">
             <div>
-                <a link="#edit-log-modal" className={`modal-trigger ${log.attention ? 'red-text' : 'blue-text'}`}>{log.message}</a>
+                <a href="#edit-log-modal" className={`modal-trigger ${log.attention ? 'red-text' : 'blue-text'}`}>{log.message}</a>
                 <br />
                 <span className="grey-text">
                     <span className="black-text">
@@ -27,7 +27,7 @@ const LogItem = ({ log }) => {
 }
 
 LogItem.propTypes = {
-log:PropTypes.object.isRequired
+log:PropTypes.object.isRequired,
 }
 
 export default LogItem
