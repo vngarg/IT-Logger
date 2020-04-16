@@ -1,2 +1,3 @@
 ## IT-Logger
+Now you can easily store your work logs here .....
 ***More coming soon.......***
